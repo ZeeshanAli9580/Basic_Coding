@@ -75,3 +75,86 @@ Question 23: Write a Java Program to iterate through the HashMap.
 Question 24: Write a Java Program to convert HashMap to ArrayList.
 Question 25: Write a Java Program to print the missing number in a given Array.
 
+
+1. Swap two Number --- Done
+
+2. Reverse a Number ----Done
+
+3. Reverse a String
+
+4. Palindrome Number
+
+5. Palindrome String
+
+6. Count number of Digits in a Number
+
+7. Count number of even and odd digits
+
+8. Count sum of digits in a number
+
+9. Find largest of 3 numbers
+
+10. Generate Fibonacci Series
+
+11. Check given number is Prime or Not
+
+12. Generate Random number
+
+13. Factorial of a number
+
+14. Find Sum of Elements in Array------>Done
+
+15. Print Even & Odd numbers from an Array------>Done
+
+16. Check the Equality of two Arrays
+
+17. Missing number in an Array------>Done
+
+18. Minimum & Maximum values in Array
+
+19. Duplicate Elements in Array
+
+20. Searching an Element in Array (Liner Search)
+
+22. Searching an Element in Array (Binary Search)
+
+23. Sort Elements in Array (Bubble Sort)
+
+24. Sort Elements in Array (Built-In Sort)
+
+25. Remove Junk or Special Characters in String--------------Done
+
+26. Remove White Spaces in String ----------Done
+
+27. Count occurrences of a character in a String
+
+28. Count Words in a String
+
+29. Reverse each word in a String
+
+30. Read Data from a Text File
+
+31. Write Data into a Text File
+
+32.  Write a java program to capitalize each word in string?
+
+33 Write a java program to tOGGLE each word in string?(Input:
+
+this is javatpoint
+Output:
+
+tHIS iS jAVATPOINT)
+
+34. Java Program to find duplicate characters in a String
+
+35 Java Program to prove that strings are immutable in java
+
+36 Java Program to remove all white spaces from a String
+
+37 Java Program to check whether one String is a rotation of another
+
+38 Java Program to count the number of words in a String
+
+39 How to swap two String variables without third variable
+
+40 How to remove a particular character from a String
