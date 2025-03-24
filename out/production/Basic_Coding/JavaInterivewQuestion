@@ -1,0 +1,163 @@
+Java questions:
+1. Swap two strings without using a third string.
+2. In the given string count characters and store it in string1 variable,  special characters in string2 variable, numerical values in string3 variable
+3. Get a list of names from the user and find the string that starts with "J" using java stream
+4. From the given list of array find the unique values and display the values in sorted order
+5. In the given string count the number of spaces and print the string without any spaces
+
+1 Swap nos without third variable
+
+2. Given an array of fruits sort using ascending order based on the starting letter of the fruit name
+
+3. Count the occ of character in string using hashmap and w/o any function (traditional way)
+
+4. Reverse the array
+
+5. Seperate the numbers , special character and alphabet from given string
+
+6. Palindrome concept explanation
+
+7. Prime nos list program
+
+
+---------------------------
+Write a Program to check if an element is part of a collection or not.
+Write a program to reverse an ArrayList.
+Write a program to convert ArrayList to LinkedList and vice versa.
+How to get the highest and lowest values of a List?
+How to make a collection read-only?
+What is the difference between Iterator & Enumerator?
+Compare different Collection classes with respect to their properties.
+
+List
+What are the differences between List & Set?
+What are the differences between Array and ArrayList?
+What are the differences between Arraylist & LinkedList?
+
+Set
+What are the differences between Set & Map?
+What are the differences between HashSet & TreeSet?
+
+Map
+What are the differences between HashSet & HashMap?
+What are the differences between HashMap & TreeMap?
+
+
+
+
+Question 1: Write a Java Program to reverse a String.
+Question 2:  Write a Java Program to swap two given Strings
+Question 3: Write a Java Program to print the Fibonacci Series.
+Question 4: Write a Java Program to check if a number is Armstrong number or not.
+Question 5: Write a Java Program to print the sum of digits of a given integer.
+Question 6: Write a Java Program to check if a number is Prime or not.
+Question 7:  Write a Java Program to count the number of characters in a given String.
+Question 8: Write a Java Program to find the duplicates of a given String.
+Question 9: Write a Java Program for swapping of 2 numbers.
+Question 10: Write a Java Program to reverse an array?
+Question 11: Write a Java Program to get the count of Capitalized words in a String.
+Question 12: Write a Java Program to find the longest consecutive occurrence of integers in a given array.
+
+
+
+
+Question 13: Write a Java Program to generate Output "aabbbcccc" with the input "a2b3c4"
+Question 14: Write a Java Program to print the product of an array except self?
+Question 15: Write a Java Program to reverse a number using Stack.
+Question 16:  Write a Java Program to print the second largest number in a given array.
+Question 17: Write a Java Program to print the first non repeating character in a given String.
+Question 18: Write a Java Program to print the maximum consecutive ones in a given array.
+Question 19: Write a Java Program to print the first and last position of a number in a given array.
+Question 20: Write a Java Program to print numbers 1 to 100 without using any loop(for/while/do-while).
+Question 21: Write a Java Program to shift all zeros on the right.
+Question 22: Write a Java Program to remove the duplicates from an array.
+Question 23: Write a Java Program to iterate through the HashMap.
+Question 24: Write a Java Program to convert HashMap to ArrayList.
+Question 25: Write a Java Program to print the missing number in a given Array.
+
+
+1. Swap two Number --- Done
+
+2. Reverse a Number ----Done
+
+3. Reverse a String
+
+4. Palindrome Number
+
+5. Palindrome String
+
+6. Count number of Digits in a Number
+
+7. Count number of even and odd digits
+
+8. Count sum of digits in a number
+
+9. Find largest of 3 numbers
+
+10. Generate Fibonacci Series
+
+11. Check given number is Prime or Not
+
+12. Generate Random number
+
+13. Factorial of a number
+
+14. Find Sum of Elements in Array------>Done
+
+15. Print Even & Odd numbers from an Array------>Done
+
+16. Check the Equality of two Arrays
+
+17. Missing number in an Array------>Done
+
+18. Minimum & Maximum values in Array
+
+19. Duplicate Elements in Array
+
+20. Searching an Element in Array (Liner Search)
+
+22. Searching an Element in Array (Binary Search)
+
+23. Sort Elements in Array (Bubble Sort)
+
+24. Sort Elements in Array (Built-In Sort)
+
+25. Remove Junk or Special Characters in String--------------Done
+
+26. Remove White Spaces in String ----------Done
+
+27. Count occurrences of a character in a String
+
+28. Count Words in a String
+
+29. Reverse each word in a String
+
+30. Read Data from a Text File
+
+31. Write Data into a Text File
+
+32.  Write a java program to capitalize each word in string?
+
+33 Write a java program to tOGGLE each word in string?(Input:
+
+this is javatpoint
+Output:
+
+tHIS iS jAVATPOINT)
+
+34. Java Program to find duplicate characters in a String
+
+35 Java Program to prove that strings are immutable in java
+
+36 Java Program to remove all white spaces from a String
+
+37 Java Program to check whether one String is a rotation of another
+
+38 Java Program to count the number of words in a String
+
+39 How to swap two String variables without third variable
+
+40 How to remove a particular character from a String
+
+
+-------------------------
